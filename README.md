@@ -56,6 +56,6 @@ Here are some ideas to get you started:
   </ul>
   <div align="center">
   <a href="https://github.com/imjuliadarosa">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjuliadarosa&show_icons=true&theme=dark)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjuliadarosa&show_icons=true&theme=dark"/>
   </div>
   
