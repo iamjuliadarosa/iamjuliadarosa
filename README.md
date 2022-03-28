@@ -56,6 +56,6 @@ Here are some ideas to get you started:
   </ul>
   <div align="center">
   <a href="https://github.com/imjuliadarosa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjuliadarosa&layout=compact&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjuliadarosa&layout=compact&theme=dark"/>
   </div>
   
