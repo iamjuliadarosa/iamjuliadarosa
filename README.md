@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 <ul>Algumas das minhas áreas de interesse para aplicação dos conhecimento são:
   <li>
+    <ul>Indústria
+      <li>Indústria 4.0</li>
+      <li>Aumento de produtividade no setor de Engenharia/Projetos</li>
+      <li>Organização de Produção e acompanhamento de máquinas em tempo real</li>
+    </ul>
     <ul>Agricultura de Precisão
       <li>Analize de imagens usando Inteligencia Artificial</li>
       <li>Automação da analize das codições de cultico e reconhecimento de risco</li>
