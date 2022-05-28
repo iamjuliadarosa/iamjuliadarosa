@@ -27,6 +27,8 @@ Here are some ideas to get you started:
       <li>Aumento de produtividade no setor de Engenharia/Projetos</li>
       <li>Organização de Produção e acompanhamento de máquinas em tempo real</li>
     </ul>
+</li>
+<li>
     <ul>Agricultura de Precisão
       <li>Analize de imagens usando Inteligencia Artificial</li>
       <li>Automação da analize das codições de cultico e reconhecimento de risco</li>
