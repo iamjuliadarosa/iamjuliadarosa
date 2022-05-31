@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <li>Elixir Nerves</li>
   </ul>
   <div align="center">
-  <a href="https://github.com/imjuliadarosa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjuliadarosa&layout=compact&theme=dark"/>
+  <a href="https://github.com/iamjuliadarosa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
   </div>
   
