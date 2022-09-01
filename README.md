@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- stats -->
 <div align="center">
   <a href="https://github.com/iamjuliadarosa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=dark"/>
   </a>
   <a href="https://github.com/iamjuliadarosa">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
   </a>
 </div>
   
