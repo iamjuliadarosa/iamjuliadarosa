@@ -12,6 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- contacts -->
+<div>
+  <a href="mailto:iamjuliadarosa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/iamjuliadarosa">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+  <a href="https://br.linkedin.com/in/julia-da-rosa-b33273150">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>
+</div>
+<!-- stats -->
+<div>
+  <a href="https://github.com/iamjuliadarosa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=dark"/>
+  </a>
+  <a href="https://github.com/iamjuliadarosa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
+  </a>
+</div>
+  
 <strong>Sobre mim:</strong><br>
 <p>Meu nome é <strong>Julia da Rosa</strong>, sou estudante de <strong>Bacharel em Ciência da Computação</strong> e trabalho com desenvolvimento de Software.
   <br>Trabalhei durante dois anos, entre novembro de 2017 e janeiro de 2020, como Analista de Suporte Técnico para a Unifique Telecomunicações.
@@ -62,17 +84,4 @@ Here are some ideas to get you started:
   <li>Elixir Phoenix</li>
   <li>Elixir Nerves</li>
   </ul>
-  <div align="center">
-  <a href="https://github.com/iamjuliadarosa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
-  </div>
-  <div>
-    <a href="mailto:iamjuliadarosa@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/iamjuliadarosa">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>
-  
-  </div>
   
