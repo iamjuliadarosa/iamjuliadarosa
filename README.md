@@ -25,12 +25,12 @@ Here are some ideas to get you started:
   </a>
 </div>
 <!-- stats -->
-<div>
+<div align="center">
   <a href="https://github.com/iamjuliadarosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=dark"/>
   </a>
   <a href="https://github.com/iamjuliadarosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
   </a>
 </div>
   
