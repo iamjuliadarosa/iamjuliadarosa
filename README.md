@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <ul>Alguns dos meus projetos pessoais são:
     <li> Um software de gerenciamento de arquivos com foco em gerenciamento de projeto, documentação, proteção de arquivo, versionamento e atribuição de tarefas. Inspirado em softwares de PDM, um segmento dentro do PLM. </li>
     <li>Um sistema para agricultores de pequeno porte com recursos de agricultura de precisão.</li>
+    <li>Uma api que retorna dados randomicos para RPGs.</li>
   </ul>
   
   <ul>Meus conhecimentos:
@@ -64,5 +65,14 @@ Here are some ideas to get you started:
   <div align="center">
   <a href="https://github.com/iamjuliadarosa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
+  </div>
+  <div>
+    <a href="mailto:iamjuliadarosa@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/iamjuliadarosa">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    </a>
+  
   </div>
   
