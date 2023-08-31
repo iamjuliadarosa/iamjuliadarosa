@@ -39,9 +39,9 @@ I am a **Computer Science Student** and I work full-time with software developme
 <!-- stats -->
 <div align="center">
   <a href="https://github.com/iamjuliadarosa">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=iamjuliadarosa&layout=compact&theme=light"/>
   </a>
   <a href="https://github.com/iamjuliadarosa">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjuliadarosa&layout=compact&theme=light"/>
   </a>
 </div>
