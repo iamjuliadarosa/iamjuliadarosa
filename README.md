@@ -1,5 +1,7 @@
 # Meu nome é Julia. #
 
+![image](https://github.com/iamjuliadarosa/iamjuliadarosa/assets/42720198/17a83069-cec3-464e-84e6-a0b904fbf32b)
+
 Sou uma Desenvolvedora de Software Fullstack e estudante de Ciência da Computação no Instituto Federal Catarinense, Campus Rio do Sul.
 
 Minha trajetória profissional inclui uma experiência na Unifique Telecomunicações, onde adquiri habilidades valiosas no atendimento ao cliente e suporte de redes.
