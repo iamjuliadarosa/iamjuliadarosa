@@ -1,6 +1,4 @@
-# Meu nome é Julia. #
-
-![image](rjenuH.gif)
+![1696103631683](https://github.com/iamjuliadarosa/iamjuliadarosa/assets/42720198/7c25a0e4-74fd-46a6-8960-bea002bb4827)
 
 Sou uma Desenvolvedora de Software Fullstack e estudante de Ciência da Computação no Instituto Federal Catarinense, Campus Rio do Sul.
 
