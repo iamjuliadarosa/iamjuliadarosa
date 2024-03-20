@@ -1,4 +1,4 @@
-![1696103631683](https://github.com/iamjuliadarosa/iamjuliadarosa/assets/42720198/7c25a0e4-74fd-46a6-8960-bea002bb4827)
+![Banner para Linkedin Tecnologia em Preto(3)](https://github.com/iamjuliadarosa/iamjuliadarosa/assets/42720198/e79b35d3-9b4e-4d8d-a09b-ace9e477e08d)
 
 Sou uma Desenvolvedora de Software Fullstack e estudante de Ciência da Computação no Instituto Federal Catarinense, Campus Rio do Sul.
 
