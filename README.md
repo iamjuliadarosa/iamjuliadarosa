@@ -1,10 +1,6 @@
-![Banner para Linkedin Tecnologia em Preto(3)](https://github.com/iamjuliadarosa/iamjuliadarosa/assets/42720198/e79b35d3-9b4e-4d8d-a09b-ace9e477e08d)
-
 Sou uma Desenvolvedora de Software Fullstack e estudante de Ciência da Computação no Instituto Federal Catarinense, Campus Rio do Sul.
 
 Minha trajetória profissional inclui uma experiência na Unifique Telecomunicações, onde adquiri habilidades valiosas no atendimento ao cliente e suporte de redes.
-
-Atualmente, na Cubus Soluções, estou envolvida em projetos de Engenharia 4.0, que combinam minha paixão por tecnologia e inovação.
 
 Na área de Desenvolvimento, sou especialista em .NET Framework, mas estou sempre ansiosa para aprender e explorar outras tecnologias, como Node.js, Vue.js, Elixir e Phoenix Framework, que têm grande potencial para o futuro.
 
